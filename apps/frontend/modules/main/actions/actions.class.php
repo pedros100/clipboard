@@ -23,6 +23,15 @@ class MainActions extends sfActions
   {
 
   }
+  public function executeRegulamin(sfWebRequest $request)
+  {
+
+  }
+  public function executeOserwisie(sfWebRequest $request)
+  {
+
+  }
+  
 }
 
 
